@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "重载运算符", "重载�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自增运算符的重载", "自增运算符的重载\自增运算符的重载.vcxproj", "{AD1425DE-D486-4076-A588-9B7AC6C8C551}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "练习_重载运算符封装String类", "练习_重载运算符封装String类\练习_重载运算符封装String类.vcxproj", "{D8623B44-B797-47AA-8E9C-64ECBA7970D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{AD1425DE-D486-4076-A588-9B7AC6C8C551}.Release|x64.Build.0 = Release|x64
 		{AD1425DE-D486-4076-A588-9B7AC6C8C551}.Release|x86.ActiveCfg = Release|Win32
 		{AD1425DE-D486-4076-A588-9B7AC6C8C551}.Release|x86.Build.0 = Release|Win32
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Debug|x64.ActiveCfg = Debug|x64
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Debug|x64.Build.0 = Debug|x64
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Debug|x86.Build.0 = Debug|Win32
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Release|x64.ActiveCfg = Release|x64
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Release|x64.Build.0 = Release|x64
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Release|x86.ActiveCfg = Release|Win32
+		{D8623B44-B797-47AA-8E9C-64ECBA7970D1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
